@@ -1,0 +1,46 @@
+**post info**
+
+{
+    "id": "623d75a3ed048b2d1ace8aaa",
+    "post": "Hi everyone",
+    "postedBy": {
+        "id": "623c088849e7255c9b0d26a4",
+        "firstName": "KKKKK",
+        "lastName": "K",
+        "middleName": "K",
+        "phoneNumber": "9846160215",
+        "email": "kkkkk@mail.com",
+        "dateOfBirth": "1983-03-23",
+        "employeeNumber": "333",
+        "bloodGroup": "O_POS",
+        "gender": "MALE"
+    },
+    "createdAt": "2022-03-25",
+    "updatedAt": "2022-03-25",
+    "likesCount": 0,
+    "commentsCount": 0
+}
+
+**commentlist for the post**
+
+[
+    {
+        "id": "623d765d860907035878c808",
+        "comment": "Hi",
+        "commentedBy": {
+            "id": "623c088849e7255c9b0d26a4",
+            "firstName": "KKKKK",
+            "lastName": "K",
+            "middleName": "K",
+            "phoneNumber": "9846160215",
+            "email": "kkkkk@mail.com",
+            "dateOfBirth": "1983-03-23",
+            "employeeNumber": "333",
+            "bloodGroup": "O_POS",
+            "gender": "MALE"
+        },
+        "likesCount": 0,
+        "createdAt": "2022-03-25",
+        "updatedAt": "2022-03-25"
+    }
+]
